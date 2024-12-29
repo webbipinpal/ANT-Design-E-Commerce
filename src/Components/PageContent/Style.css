@@ -1,0 +1,10 @@
+.pageContent{
+    display: flex;
+    flex: 1;
+    overflow-y: auto;
+}
+
+.home-page {
+    height: 100%;
+    max-width: 1200px;
+}

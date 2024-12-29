@@ -1,0 +1,36 @@
+.header{
+    height: 60px;
+    background: #001529;
+    width: 100%;
+    z-index: 1;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.7);
+    position: relative;
+    color: #fff;
+}
+.appHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.home-page {
+    height: 100%;
+    max-width: 1200px;
+    position: relative;
+    margin: auto;
+    will-change: transform;
+}
+.topMenu{
+    background-color: transparent;
+    color: #fff;
+}
+.topMenu li,
+.topMenu span{
+    color: #fff;
+}
+.storeName{
+    color: #fff;
+}
+.appCard{
+    color: #fff;
+    font-size: 32px;
+}

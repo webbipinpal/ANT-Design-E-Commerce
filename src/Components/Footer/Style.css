@@ -1,0 +1,18 @@
+.copyright-wrapper {
+    width: 100%;
+    border-top: 1px solid rgba(233, 233, 233, 0.1);
+    background: #001529;
+}
+.copyright {
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+    color: #ffffff;
+}
+.home-page {
+    height: 100%;
+    max-width: 1200px;
+    position: relative;
+    margin: auto;
+    will-change: transform;
+}

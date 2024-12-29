@@ -1,0 +1,8 @@
+.img-thumbnail{
+    max-width: 150px;
+    object-fit: scale-down;
+}
+.shortContainer{
+    margin-top: 20px;
+    padding-inline-start: 10px;
+}
